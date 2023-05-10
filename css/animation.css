@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+@keyframes logoani {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes txtani {
+  from {opacity: 0; margin-top: 50px;}
+  to {opacity: 1; margin-top:0px;}
+}
+
+#logo {
+  animation-name: logoani;
+  animation-duration: 1s;
+	animation-timing-function: ease;
+}
+
+#content {
+	animation-name: txtani;
+	animation-duration: 2s;
+	animation-timing-function: linear;
+}

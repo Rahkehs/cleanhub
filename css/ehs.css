@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+@keyframes esh1 {
+  from { transform: scale(0, 0);}
+  to { transform: scale(1, 1)}
+}
+.ehs1 {
+  animation-name: esh1;
+  animation-duration: 2s;
+}
+.ehs2 {
+  animation-name: esh1;
+  animation-duration: 4s;
+}
+.ehs3 {
+  animation-name: esh1;
+  animation-duration: 6s;
+}
+.ehs4 {
+  animation-name: esh1;
+  animation-duration: 8s;
+}
