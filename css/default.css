@@ -8,10 +8,10 @@ html {
 }
 a:link, a:visited {
 	text-decoration:none;
-	color: white;
+	color: rgba(255, 255, 255, 0.884);
 }
 .header {
-	background-color:#FFFFFF;	
+	background-color:#ffffffe2;	
 }
 #logo {
 	padding: 10px;
@@ -20,7 +20,7 @@ a:link, a:visited {
  /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: #1e7abb;
+  background-color: #1fb91c;
 }
 
 /* Navbar links */
@@ -61,7 +61,7 @@ h3 {
 	padding-top: 1%;
 	padding-bottom: 1%;
 	font-size: 1.6em;
-	color: #1e7abb;
+	color: #059a46;
 	padding-right: 5%;
 	padding-left: 5%;
 }
